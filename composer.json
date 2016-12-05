@@ -1,5 +1,5 @@
 {
-  "name": "rocket-labs/sellercenter-sdk-php",
+  "name": "dumpofthevar/sellercentersdk-php",
   "description": "SellerCenter SDK for PHP",
   "license": "MIT",
   "require": {
